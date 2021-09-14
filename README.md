@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **z2p/z2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+    -->
+
+### Hi! I'm z2p. Welcome to my homepage🏠
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=z2p&show_icons=true&theme=dark" width="380">
+
+*   🔭 Cybersecurity researcher and programmer
+*   🌱 I'm currently learning Terminal security
+*   💬 Connect Me: z2p0721@gmail.com
+*   [![GitHub Uknow](https://img.shields.io/github/followers/z2p?label=follower%20github&style=flat-square)](https://github.com/z2p)
+
