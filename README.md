@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi! I'm z2p. Welcome to my homepage🏠
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=z2p&show_icons=true&theme=dark" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=z2p&show_icons=true&count_private=true&hide=prs" width="380">
 
 *   🔭 Cybersecurity researcher and programmer
 *   🌱 I'm currently learning Terminal security
